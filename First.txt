@@ -1,1 +1,2 @@
 This is my first document for Github.
+I have just added this line for my next release.
